@@ -94,7 +94,7 @@ msgstr "Lukk"
 #: ../build/x86_64-linux-gnu/app/po/wakeit.desktop.in.h:2
 #: /home/mateo/wakeit/build/aarch64-linux-gnu/app/po/wakeit.desktop.in.h:2
 msgid "Wake It!"
-msgstr "Vekk den!"
+msgstr "Wake It!"
 
 #: ../app/wakeit.qml:252
 #: ../build/x86_64-linux-gnu/app/install/share/qml/wakeit/wakeit.qml:252
@@ -105,4 +105,4 @@ msgstr "Bruk verktøylinjen for å legge til en enhet"
 #: ../build/x86_64-linux-gnu/app/po/wakeit.desktop.in.h:1
 #: /home/mateo/wakeit/build/aarch64-linux-gnu/app/po/wakeit.desktop.in.h:1
 msgid "wakeit"
-msgstr "VekkEnhet"
+msgstr "wakeit"
